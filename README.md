@@ -1,3 +1,1 @@
-# is-hoshi
-
-Welcome, `is-hoshi` account !
+# Welcome, `is-hoshi` account profile
